@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #174221;
+    
+}
+.finish-label{
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    width: 3px;
+    background-color: aliceblue;
+    right: 0;
+    margin-right: 20px;
+
+
+}
+#header{
+    position: absolute;
+    min-width: 100%;
+    top: 0px;
+}
+img{
+    width: 300px;
+    position: absolute;
+    margin-top: 10px;
+    } 
+ #container div.row{
+        margin-top: 90px;
+
+    }
